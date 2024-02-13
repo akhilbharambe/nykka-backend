@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.2"
+  },
+  "name": "nykka-backend",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ondex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilbharambe/nykka-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilbharambe/nykka-backend/issues"
+  },
+  "homepage": "https://github.com/akhilbharambe/nykka-backend#readme"
+}
